@@ -1,1 +1,1 @@
-# he-focus-will-be-on-detecting-ships-in-satellite-imagery.-We-need-ship-detection-to-detect-all-kinds
+# “Detecting Ships in Satellite Imagery”
